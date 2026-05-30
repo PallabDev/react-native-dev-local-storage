@@ -36,30 +36,7 @@ An offline-first code snippet vault for mobile with AI-powered explanations. Sto
 - **UI**: Custom React Native components with glass-effect styling
 - **Build Tools**: Metro bundler with ESLint
 
-## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <h4>Home Page</h4>
-    <img src="assets/images/Screenshot_home_page.png" alt="Home Page" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <h4>Create/Edit Snippet</h4>
-    <img src="assets/images/Screenshot_each_snippet.png" alt="Create Snippet" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <h4>File Manager</h4>
-    <img src="assets/images/Screenshot_filemanager.png" alt="File Manager" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <h4>Favorites</h4>
-    <img src="assets/images/Screenshot_favorites.png" alt="Favorites" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <h4>Settings</h4>
-    <img src="assets/images/Screenshot_settings.png" alt="Settings" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-</div>
 
 ## Project Structure
 
